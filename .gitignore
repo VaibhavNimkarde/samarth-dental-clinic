@@ -3,8 +3,13 @@ node_modules
 .pnp
 .pnp.js
 
-# Testing and verification artifacts
-pdf_pages
+# Raw reference inputs & test artifacts
+Untitled*.pdf
+reference_video.mp4
+WhatsApp Image*
+extracted_assets/
+scratch_profile/
+pdf_pages/
 verify_screens.js
 
 # Production build
